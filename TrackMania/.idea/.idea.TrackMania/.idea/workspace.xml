@@ -12,24 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d4b6b9f-904a-4f20-859a-a146fc83b30c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StartTrack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StartTrack.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Track/SM_Track_10M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Track/SM_Track_10M.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/OffroadCar/Materials/MI_OffroadCar_Lights.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/OffroadCar/Materials/MI_OffroadCar_Lights.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/OffroadCar/Materials/MI_OffroadCar_Main.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/MI_SportsCar_Tire.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/MI_SportsCar_Tire.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar_Lights.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar_Lights.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar_Wheel.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Vehicles/SportsCar/Materials/M_SportsCar_Wheel.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TrackMania.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/TrackMania.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/6T/LR1OAKEVJOOPQRQLMJQ8VD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/6T/LR1OAKEVJOOPQRQLMJQ8VD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/P3/KZVLCO6WGVCVSGE4R866DJ.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TrackMania/TimerTrack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TrackMania/TimerTrack.h" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +34,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Source/TrackMania/GhostActor.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/TrackMania/GhostActor.h" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2uoMZIQbxlyXkL1BfLiuuVGyEec" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -55,8 +52,9 @@
   "keyToString": {
     "C/C++ Project.TrackMania.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "dev",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -142,7 +140,10 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
-      <deployment type="dockerfile" />
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <EXTENSION ID="com.jetbrains.rider.docker.debug" isFastModeEnabled="true" isSslEnabled="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -154,13 +155,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742910529536</updated>
-      <workItem from="1742910533129" duration="2952000" />
+      <workItem from="1742910533129" duration="4931000" />
+      <workItem from="1742992752086" duration="15761000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
