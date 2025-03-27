@@ -51,6 +51,8 @@ void AGhostActor::ResetArrays()
 {
 	ArrayLocationTemp.Empty();
 	ArrayRotationTemp.Empty();
+	IndexArray = 0;
+	GhostMesh->SetVisibility(false);
 }
 
 void AGhostActor::SetNewBestTime()
@@ -59,7 +61,6 @@ void AGhostActor::SetNewBestTime()
 	StartGhost = false;
 	ArrayLocation = ArrayLocationTemp;
 	ArrayRotation = ArrayRotationTemp;
-	IndexArray = 0;
 	ResetArrays();
 }
 
