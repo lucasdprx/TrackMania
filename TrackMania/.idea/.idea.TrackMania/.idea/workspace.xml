@@ -14,11 +14,12 @@
     <list default="true" id="0d4b6b9f-904a-4f20-859a-a146fc83b30c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StartTrack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StartTrack.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_TorqueCurve.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Input/IMC_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Input/IMC_Default.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/1/0G/S09YAH4R8CMVDMZ7A20STZ.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/TrackMania/GhostActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TrackMania/GhostActor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +155,8 @@
       <updated>1742910529536</updated>
       <workItem from="1742910533129" duration="4931000" />
       <workItem from="1742992752086" duration="15761000" />
-      <workItem from="1743065602995" duration="3201000" />
+      <workItem from="1743065602995" duration="3877000" />
+      <workItem from="1743078733270" duration="2041000" />
     </task>
     <servers />
   </component>
