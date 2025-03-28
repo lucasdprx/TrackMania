@@ -35,6 +35,10 @@ void AGhostActor::Tick(float DeltaTime)
 
 void AGhostActor::SetLocationAndRotation()
 {
+    if (ArrayLocation.Num() == 0)
+    {
+        return;
+    }
 	GhostMesh->SetVisibility(true);
 	GhostMesh->SetWorldLocation(ArrayLocation[IndexArray]);
 	GhostMesh->SetWorldRotation(ArrayRotation[IndexArray]);

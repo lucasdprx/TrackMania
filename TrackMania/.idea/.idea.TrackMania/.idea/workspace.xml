@@ -13,22 +13,15 @@
   <component name="ChangeListManager">
     <list default="true" id="0d4b6b9f-904a-4f20-859a-a146fc83b30c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AssetFormula1/FbxScene_Formula1NoColors.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AssetFormula1/FbxScene_Formula1NoColors.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/CheckPoint.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CheckPoint.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Track.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Track.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Track/SM_Track_10M.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Track/SM_Track_10M.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/WDG_Hud.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/WDG_Hud.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/I5/39QMOMX0SBF5P8WX11O0V6.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/WQ1G94TAXTE1YVN2INDKQ5.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/7Y/WQ1G94TAXTE1YVN2INDKQ5.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/5V/2BO5BA2RFEN2ITVKLPZ8RD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/5V/2BO5BA2RFEN2ITVKLPZ8RD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_Pawn.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsFront.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/SportsCar/SportsCar_WheelsRear.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/KH/7UZTS1KQ9C3D8VCY0LU7D4.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/5Q/R91HTPJGCTT11W21J2XSVY.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/Q4/V758X99SGCELUD0EM4HK4G.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/7E/8DW505URU1M8B79OC6MXDX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/7E/8DW505URU1M8B79OC6MXDX.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/30/EXEN8BYTWNFPJJRLE00CJ2.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/TrackMania/GhostActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/TrackMania/GhostActor.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +160,7 @@
       <workItem from="1743065602995" duration="3877000" />
       <workItem from="1743078733270" duration="2041000" />
       <workItem from="1743159996559" duration="1483000" />
+      <workItem from="1743169820651" duration="3405000" />
     </task>
     <servers />
   </component>
