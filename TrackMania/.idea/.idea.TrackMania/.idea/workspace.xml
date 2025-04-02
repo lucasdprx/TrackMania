@@ -11,7 +11,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d4b6b9f-904a-4f20-859a-a146fc83b30c" name="Changes" comment="" />
+    <list default="true" id="0d4b6b9f-904a-4f20-859a-a146fc83b30c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrackMania/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Track.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Track.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/25/ZK8R9FQ1VMO1NRK7ITYCSV.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,6 +154,7 @@
       <workItem from="1743078733270" duration="2041000" />
       <workItem from="1743159996559" duration="1483000" />
       <workItem from="1743169820651" duration="3426000" />
+      <workItem from="1743581865252" duration="1370000" />
     </task>
     <servers />
   </component>
